@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Talking With Users"
-date:   2017-02-11 10:49:14 -0800
-categories: agile ux
+date:   2017-02-15 06:30:14 -0800
+tags: agile ux
 ---
 By taking the time to regularly checkin with our users we minimize waste (expensive engineering on the wrong things) and we maximize value (small feedback loops to validate assumptions with real users).  This can be a challenge in small companies and even more of a challenge in larger organizations with a history of requirement documents and segregated business units.  It's easy for an agile team in a traditional organization to be handed a Requirement Spec from product management and jump straight into the technical implications of 'how' to implement a user story without really understanding the 'why'.  
 
