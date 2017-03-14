@@ -23,6 +23,7 @@ twitter_username: dannyvarner
 github_username:  piohhmy
 disqus:
   shortname: dannyvarner
+google_analytics: UA-93631046-1
 
 # Build settings
 markdown: kramdown
