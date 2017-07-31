@@ -1,3 +1,5 @@
+This is the Jekyll-based blog for dannyvarner.com
+
 ## Using Jekyll locally
 
 To work locally with this project, you'll have to follow the steps below:
